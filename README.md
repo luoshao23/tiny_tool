@@ -1,2 +1,2 @@
-# tiny_tool
-This is a useful repository for a tiny tool.
+# Tiny_tool
+This is a repository for useful or interesting tiny tools or utils.
